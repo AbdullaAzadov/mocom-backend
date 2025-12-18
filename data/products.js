@@ -1,6 +1,4 @@
-import { Product } from "./product.type";
-
-export const products: Product[] = [
+export const products = [
   {
     id: 0,
     title: "iPhone 13 Pro - Transparent",
